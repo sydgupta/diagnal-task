@@ -1,0 +1,42 @@
+@import '../../assets/scss/variables.scss';
+
+.search-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .account-info{
+        width: 25px;
+        img{
+            width: 100%;
+        }
+    }
+    .input-wrapper{
+        width: calc(100% - 30px);
+        padding-right: 10px;
+        input{
+            height: 45px;
+            width: 100%;
+            border-radius: 40px;
+            border: 1px solid $white;
+            padding: 10px 15px;
+            background: transparent;
+            color: $white;
+            &:focus{
+                outline: none;
+            }
+        }
+    }
+    .page-heading{
+        display: flex;
+        align-items: center;
+        img{
+            width: 20px;
+            margin-right: 10px;
+        }
+        span{
+            font-size: 25px;
+            font-weight: 500;
+            color: $lite-gray;
+        }
+    }
+}
