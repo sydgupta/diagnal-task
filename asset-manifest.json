@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/diagnal-task/static/css/main.5f3fd522.chunk.css",
-    "main.js": "/diagnal-task/static/js/main.88403071.chunk.js",
-    "main.js.map": "/diagnal-task/static/js/main.88403071.chunk.js.map",
+    "main.js": "/diagnal-task/static/js/main.cf5971c7.chunk.js",
+    "main.js.map": "/diagnal-task/static/js/main.cf5971c7.chunk.js.map",
     "runtime-main.js": "/diagnal-task/static/js/runtime-main.c226b324.js",
     "runtime-main.js.map": "/diagnal-task/static/js/runtime-main.c226b324.js.map",
-    "static/js/2.cde76949.chunk.js": "/diagnal-task/static/js/2.cde76949.chunk.js",
-    "static/js/2.cde76949.chunk.js.map": "/diagnal-task/static/js/2.cde76949.chunk.js.map",
+    "static/js/2.2937ae5a.chunk.js": "/diagnal-task/static/js/2.2937ae5a.chunk.js",
+    "static/js/2.2937ae5a.chunk.js.map": "/diagnal-task/static/js/2.2937ae5a.chunk.js.map",
     "static/js/3.61966261.chunk.js": "/diagnal-task/static/js/3.61966261.chunk.js",
     "static/js/3.61966261.chunk.js.map": "/diagnal-task/static/js/3.61966261.chunk.js.map",
     "index.html": "/diagnal-task/index.html",
     "static/css/main.5f3fd522.chunk.css.map": "/diagnal-task/static/css/main.5f3fd522.chunk.css.map",
-    "static/js/2.cde76949.chunk.js.LICENSE.txt": "/diagnal-task/static/js/2.cde76949.chunk.js.LICENSE.txt"
+    "static/js/2.2937ae5a.chunk.js.LICENSE.txt": "/diagnal-task/static/js/2.2937ae5a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c226b324.js",
-    "static/js/2.cde76949.chunk.js",
+    "static/js/2.2937ae5a.chunk.js",
     "static/css/main.5f3fd522.chunk.css",
-    "static/js/main.88403071.chunk.js"
+    "static/js/main.cf5971c7.chunk.js"
   ]
 }
