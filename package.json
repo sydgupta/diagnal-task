@@ -2,7 +2,7 @@
   "name": "diagnal-task",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://syd1424794.github.io/diagnal-task",
+  "homepage": "http://sydgupta.github.io/diagnal-task",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
